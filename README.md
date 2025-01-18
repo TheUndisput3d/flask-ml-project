@@ -1,1 +1,1 @@
-# Flask Course - Project
+# implementing ml project using flask
